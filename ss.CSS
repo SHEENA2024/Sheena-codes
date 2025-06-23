@@ -1,0 +1,47 @@
+.hea{
+                position: absolute;
+                top: 10%;
+                left: 15%;
+            }
+.heart{
+    font-size: 35px;
+    position: absolute;
+    top: 30%;
+    right: 20%;
+}
+.mainn{
+    position: absolute;
+    top: 30%;
+    left: 84%;
+}
+.xx{
+    position: absolute;
+    top: 38%;
+    left: 84%;
+}
+.doc{
+    position: absolute;
+                top: 50%;
+                left: 15%;
+}
+
+.doctor{
+    font-size: 35px;
+    position: absolute;
+    
+    top: 50%;
+    right: 20%;
+}
+.bookk{
+    position: absolute;
+    top: 50%;
+    left: 84%;
+}
+.yy{
+    position: absolute;
+    top: 60%;
+    left: 84%;
+}
+
+
+

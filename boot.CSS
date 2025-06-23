@@ -1,0 +1,66 @@
+.pos{
+   background-color: goldenrod;
+    height: 40px;
+    width: 1550px;
+    border: 10px;
+    margin-right: 0;
+}
+.mmm{
+    position: absolute;
+    top: 3%;
+    right: 10%;
+}
+.link-underline-primary{
+    position: absolute;
+    top: 3%;
+    right: 5%;
+
+}
+.main{
+    background-image: url('Stetho.jpg');
+    background-size: cover;
+    padding-left: 0%;
+    height: 700px;
+    width: 1550px;
+    position: absolute;
+    left: 0%;
+}
+
+.came{
+    color: brown;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 40%;
+    right: 5%;
+}
+.adjust{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     position: absolute;
+    top: 48%;
+    right: 5%;
+}
+.email{
+    position: absolute;
+    right: 20%;
+    top: 62%;
+    border-radius: 0%;
+}
+.sss{
+    color: white;
+    position: absolute;
+    top: 66%;
+    right: 27%;
+}
+img{
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+}
+.btn btn-primary btn-lg{
+    position: absolute;
+    top: 20%;
+    right: 50%;
+}
+

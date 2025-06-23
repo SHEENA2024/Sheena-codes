@@ -1,0 +1,22 @@
+.cpr{
+    font-size: 40px;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+
+}
+.cprr{
+    align-items: center;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+.demo{
+    font-size: 20px;
+    color: red;
+    margin-left: 20%;
+    margin-right: 0%;
+    position: absolute;
+    top: 70%;
+    right: 20%;
+}
